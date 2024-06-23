@@ -5,6 +5,7 @@ Kaggle-Data-Science
 
 Automate-The-Boring-Stuff-With-Python
 
+Python Crash Course-3rd Edition
 
 ## Algorithms
 
