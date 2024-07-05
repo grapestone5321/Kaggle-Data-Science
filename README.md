@@ -52,7 +52,7 @@ MIT-Statistics-for-Applications
 
 ### CS221-Artificial_Intelligence
 
-Stanford-CS221-Artificial_Intelligence_Autumn_2019 Public
+Stanford-CS221-Artificial_Intelligence_Autumn_2019 
 
 
 ### CS224N NLP
