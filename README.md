@@ -38,21 +38,13 @@ twitter.com/sakaijun
 
 MIT-Artificial-Intelligence 
 
-MIT-Artificial-Intelligence-6.034, Fall 2010
+MIT-Introduction-to-Algorithms 
+
+MIT-Gilbert_Strang 
 
 MIT-Introduction-to-Probability 
 
-MIT-Introduction-to-Probability
-
-MIT-Introduction-to-Algorithms 
-
-MIT-Introduction-to-Algorithms
-
 MIT-Statistics-for-Applications 
-
-MIT-Statistics-for-Applications
-
-MIT-Gilbert_Strang 
 
 -----
 
