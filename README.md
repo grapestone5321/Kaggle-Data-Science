@@ -32,3 +32,28 @@ https://www.youtube.com/playlist?list=PLq-JeSNkOKBRtkNb9QeptJuvE_CwD0NKR
 
 twitter.com/sakaijun
 
+-----
+
+## MIT OpenCourseWare
+
+MIT-Artificial-Intelligence 
+
+MIT-Artificial-Intelligence-6.034, Fall 2010
+
+MIT-Introduction-to-Probability 
+
+MIT-Introduction-to-Probability
+
+MIT-Introduction-to-Algorithms 
+
+MIT-Introduction-to-Algorithms
+
+MIT-Statistics-for-Applications 
+
+MIT-Statistics-for-Applications
+
+MIT-Gilbert_Strang 
+
+-----
+
+
