@@ -81,7 +81,7 @@ Stanford-CS229-Machine-Learning_Autumn-2018
 Stanford-CS230-Deep-Learning-Autumn-2018 
 
 
-### CS231n-CNNs-for-Visual-Recognitio
+### CS231n-CNNs-for-Visual-Recognition
 
 Stanford CS231n Winter 2016
 
