@@ -45,6 +45,8 @@ MIT-Gilbert_Strang
 MIT-Introduction-to-Probability 
 
 MIT-Statistics-for-Applications 
+---MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
+
 
 -----
 
