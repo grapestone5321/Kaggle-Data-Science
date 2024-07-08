@@ -36,19 +36,19 @@ twitter.com/sakaijun
 
 ## MIT OpenCourseWare
 
-MIT-Artificial-Intelligence 
+### MIT-Artificial-Intelligence 
 
-MIT-Introduction-to-Algorithms 
+### MIT-Introduction-to-Algorithms 
 
-MIT-Gilbert_Strang 
+### MIT-Gilbert_Strang 
 
 ---MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
 
 ---Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
 
-MIT-Introduction-to-Probability 
+### MIT-Introduction-to-Probability 
 
-MIT-Statistics-for-Applications
+### MIT-Statistics-for-Applications
 
 ---MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
 
