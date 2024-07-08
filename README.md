@@ -36,21 +36,30 @@ twitter.com/sakaijun
 
 ## MIT OpenCourseWare
 
+
 ### MIT-Artificial-Intelligence 
+
+MIT 6.034 Artificial Intelligence, Fall 2010  MIT OpenCourseWare
+
+MIT 6.046J Design and Analysis of Algorithms, Spring 2015   MIT OpenCourseWare
 
 ### MIT-Introduction-to-Algorithms 
 
+MIT 6.006 Introduction to Algorithms, Fall 2011  MIT OpenCourseWare
+
 ### MIT-Gilbert_Strang 
 
----MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
+MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
 
----Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
+Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
 
 ### MIT-Introduction-to-Probability 
 
+6.041 Probabilistic Systems Analysis and Applied Probability  MIT OpenCourseWare
+
 ### MIT-Statistics-for-Applications
 
----MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
+MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
 
 
 -----
