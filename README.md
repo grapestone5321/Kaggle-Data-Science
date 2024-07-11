@@ -41,11 +41,11 @@ twitter.com/sakaijun
 
 MIT 6.034 Artificial Intelligence, Fall 2010  MIT OpenCourseWare
 
-MIT 6.046J Design and Analysis of Algorithms, Spring 2015   MIT OpenCourseWare
-
 ### MIT-Introduction-to-Algorithms 
 
 MIT 6.006 Introduction to Algorithms, Fall 2011  MIT OpenCourseWare
+
+MIT 6.046J Design and Analysis of Algorithms, Spring 2015   MIT OpenCourseWare
 
 ### MIT-Gilbert_Strang 
 
