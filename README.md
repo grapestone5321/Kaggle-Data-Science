@@ -41,6 +41,8 @@ twitter.com/sakaijun
 
 MIT 6.034 Artificial Intelligence, Fall 2010  MIT OpenCourseWare
 
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
 ### MIT-Introduction-to-Algorithms 
 
 MIT 6.006 Introduction to Algorithms, Fall 2011  MIT OpenCourseWare
