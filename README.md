@@ -57,6 +57,8 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
 
+https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
+
 Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
 
 ### MIT-Introduction-to-Probability 
