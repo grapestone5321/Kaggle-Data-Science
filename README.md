@@ -63,6 +63,8 @@ https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
 
 Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
 
+https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
+
 ### MIT-Introduction-to-Probability 
 
 6.041 Probabilistic Systems Analysis and Applied Probability  MIT OpenCourseWare
