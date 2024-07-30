@@ -36,42 +36,48 @@ twitter.com/sakaijun
 
 -----
 
-## MIT OpenCourseWare
+# MIT OpenCourseWare
 
 
-### MIT-Artificial-Intelligence 
+## MIT-Artificial-Intelligence 
 
-MIT 6.034 Artificial Intelligence, Fall 2010  MIT OpenCourseWare
+### MIT 6.034 Artificial Intelligence, Fall 2010  MIT OpenCourseWare
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
-### MIT-Introduction-to-Algorithms 
+## MIT-Introduction-to-Algorithms 
 
-MIT 6.006 Introduction to Algorithms, Fall 2011  MIT OpenCourseWare
+### MIT 6.006 Introduction to Algorithms, Fall 2011  MIT OpenCourseWare
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
-MIT 6.046J Design and Analysis of Algorithms, Spring 2015   MIT OpenCourseWare
+### MIT 6.046J Design and Analysis of Algorithms, Spring 2015   MIT OpenCourseWare
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
-### MIT-Gilbert_Strang 
+### MIT 6.042J Mathematics for Computer Science, Fall 2010
 
-MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
+https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+
+https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/
+
+## MIT-Gilbert_Strang 
+
+### MIT 18.06SC Linear Algebra, Fall 2011  MIT OpenCourseWare
 
 https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
 
-Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
+### Highlights of Calculus   MIT OpenCourseWare Last updated on Jun 28, 2018
 
 https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
 
-### MIT-Introduction-to-Probability 
+## MIT-Introduction-to-Probability 
 
-6.041 Probabilistic Systems Analysis and Applied Probability  MIT OpenCourseWare
+### 6.041 Probabilistic Systems Analysis and Applied Probability  MIT OpenCourseWare
 
-### MIT-Statistics-for-Applications
+## MIT-Statistics-for-Applications
 
-MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
+### MIT 18.650 Statistics for Applications, Fall 2016  MIT OpenCourseWare
 
 
 -----
