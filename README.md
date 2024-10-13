@@ -2,9 +2,7 @@
 
 
 
-
-
-## Python
+# Python
 
 Automate The Boring Stuff With Python
 
