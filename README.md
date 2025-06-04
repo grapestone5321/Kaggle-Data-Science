@@ -13,7 +13,7 @@ Data Structures and Algorithms in Python
 
 Data Structures and Algorithms with Python
 
-## Algorithms
+### Algorithms
 
 # Introduction_to_Algorithms-4th
 
